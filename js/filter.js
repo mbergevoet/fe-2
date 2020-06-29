@@ -26,9 +26,4 @@ const filterList = filterValue => {
 // Bron:
 //  GTCoding. (2019, November 26). How To Add Search Functionality To Select Box (HTML, CSS & Vanilla JS). Retrieved 26 June 2020, from https://www.youtube.com/watch?v=VZzWzRVXPcQ
 
-
-// TODO
-// High order functions schrijven ipv dit alles
-// Like knop handler
-
 // https://codepen.io/CiTA/pen/PPJpOG
